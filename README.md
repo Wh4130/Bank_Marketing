@@ -10,6 +10,7 @@ Please refer to Bank_Marketing.ipynb for the complete model.
 - marital status
 - education
 - profession
+- financial status (balance, default, loan, housing...)
 - whether they received contact in the previous campaign
 - the duration of the latest contact
 and so on...
