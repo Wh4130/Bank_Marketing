@@ -39,12 +39,6 @@ Feature scaling is always conducted after data set splitting
 ### Modelling
 - Logistic Regression
 - K Nearest Neighbors
-- Support Vector Machine
-- Kernel SVM
-  -   linear
-  -   poly
-  -   rbf
-  -   sigmoid
 - Naive Bayes
 - Decision Tree
 - Random Forest
