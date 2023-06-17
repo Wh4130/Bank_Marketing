@@ -15,7 +15,7 @@ Please refer to Bank_Marketing.ipynb for the complete model.
 and so on...
 
 # Data Preprocessing
-##Exploratory Data Analysis
+## Exploratory Data Analysis
 
 
 ### One-hot encoding
