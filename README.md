@@ -5,7 +5,7 @@ I used the data downloaded from https://archive.ics.uci.edu/ to practice a class
 
 Please refer to Bank_Marketing.ipynb for the complete model.
 
-## Predict whether a person will subscribe the term deposit program by the following features 
+# Predict whether a person will subscribe the term deposit program by the following features 
 - age
 - marital status
 - education
@@ -14,8 +14,8 @@ Please refer to Bank_Marketing.ipynb for the complete model.
 - the duration of the latest contact
 and so on...
 
-## Data Preprocessing
-### Exploratory Data Analysis
+# Data Preprocessing
+##Exploratory Data Analysis
 
 
 ### One-hot encoding
