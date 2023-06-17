@@ -3,7 +3,7 @@
 This is Huang Lin, Chun's side project for machine learning. 
 I used the data downloaded from https://archive.ics.uci.edu/ to practice a classification problem.
 
-Please refer to Bank_Marketing.ipynb for the complete model.
+Please refer to [Bank_Marketing.ipynb](https://github.com/Wh4130/Bank_Marketing/blob/main/Bank_Marketing.ipynb) for the complete model.
 
 # Predict whether a person will subscribe the term deposit program by the following features 
 - age
